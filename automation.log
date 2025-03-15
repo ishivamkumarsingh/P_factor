@@ -1,0 +1,10 @@
+2025-03-14 23:52:12 INFO  Log4jConfig - Launching browser and navigating to Let's Kode It...
+2025-03-14 23:52:17 INFO  Log4jConfig - Clicking on link: Login
+2025-03-14 23:52:18 INFO  Log4jConfig - Entering credentials: invaliduser@test.com / wrongPass
+2025-03-14 23:52:20 INFO  Log4jConfig - Verifying login outcome: failure
+2025-03-14 23:52:30 INFO  Log4jConfig - Error message displayed: Incorrect login details
+2025-03-14 23:52:31 INFO  Log4jConfig - Launching browser and navigating to Let's Kode It...
+2025-03-14 23:52:32 INFO  Log4jConfig - Clicking on link: Login
+2025-03-14 23:52:34 INFO  Log4jConfig - Entering credentials: user1@mail.com / 2525Yash@
+2025-03-14 23:52:35 INFO  Log4jConfig - Verifying login outcome: success
+2025-03-14 23:52:38 INFO  Log4jConfig - Login success scenario verified.
